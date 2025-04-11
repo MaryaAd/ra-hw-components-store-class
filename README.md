@@ -1,3 +1,8 @@
+![CI](https://github.com/MaryaAd/ra-hw-components-store-class/actions/workflows/web.yml/badge.svg)
+
+https://maryaad.github.io/ra-hw-components-store-class/
+
+
 Страница интернет-магазина
 ===
 
